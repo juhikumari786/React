@@ -1,42 +1,44 @@
-[{
-    resName: "Meghna foods",
-    image:"https://b.zmtcdn.com/data/pictures/chains/1/50691/9f5024f289d3ea5c80fa3259972a2371.jpg?output-format=webp&fit=around|300:273&crop=300:273;*,*",
-    cuisine: "Asian",
-    rating: 4.4,
-    cost: 300
+[
+  {
+    "resName": "Meghna foods",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/50691/9f5024f289d3ea5c80fa3259972a2371.jpg?output-format=webp&fit=around|300:273&crop=300:273;*,*",
+    "cuisine": "Asian",
+    "rating": 4.4,
+    "cost": 300
   },
   {
-    resName: "Dominos",
-    image:"https://b.zmtcdn.com/data/pictures/5/54465/1fc9a366b808205f6294527b168d9a0b_o2_featured_v2.jpg",
-    cuisine: "Italian",
-    rating: 4.0,
-    cost: 400
+    "resName": "Dominos",
+    "image": "https://b.zmtcdn.com/data/pictures/5/54465/1fc9a366b808205f6294527b168d9a0b_o2_featured_v2.jpg",
+    "cuisine": "Italian",
+    "rating": 4.0,
+    "cost": 400
   },
   {
-    resName: "KFC",
-    image:"https://b.zmtcdn.com/data/pictures/chains/9/51039/e3e149c669fa5d2e3f57221a2c394697_o2_featured_v2.jpg",
-    cuisine: "Burger",
-    rating: 3.8,
-    cost: 450
+    "resName": "KFC",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/51039/e3e149c669fa5d2e3f57221a2c394697_o2_featured_v2.jpg",
+    "cuisine": "Burger",
+    "rating": 3.8,
+    "cost": 450
   },
   {
-    resName: "Kanti Sweets",
-    image:"https://b.zmtcdn.com/data/pictures/0/50550/e2fa55e5349dc9204176519a00877539_o2_featured_v2.jpg",
-    cuisine: "Indian",
-    rating: 4.9,
-    cost: 250
+    "resName": "Kanti Sweets",
+    "image": "https://b.zmtcdn.com/data/pictures/0/50550/e2fa55e5349dc9204176519a00877539_o2_featured_v2.jpg",
+    "cuisine": "Indian",
+    "rating": 4.9,
+    "cost": 250
   },
   {
-    resName: "Hot 'N' Fast Chinese Kitchen",
-    image: "https://b.zmtcdn.com/data/pictures/chains/9/21069989/7c1eef9ef2d8c271972cc0778f15da45.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
-    cuisine: "Indo-Chinese",
-    rating: 5.0,
-    cost: 150
+    "resName": "Hot 'N' Fast Chinese Kitchen",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/21069989/7c1eef9ef2d8c271972cc0778f15da45.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+    "cuisine": "Indo-Chinese",
+    "rating": 5.0,
+    "cost": 150
   },
   {
-    resName: "Chaayos Chai+Snacks=Relax",
-    image: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/4/17/f92c604d-68cb-49db-8dec-9473650c363d_488779.JPG",
-    cuisine: "Beverages",
-    rating: 4.5,
-    cost: 100
-  }]
+    "resName": "Chaayos Chai+Snacks=Relax",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/4/17/f92c604d-68cb-49db-8dec-9473650c363d_488779.JPG",
+    "cuisine": "Beverages",
+    "rating": 4.5,
+    "cost": 100
+  }
+]
